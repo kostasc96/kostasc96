@@ -18,6 +18,6 @@ My interests (professionally and academically) include **Big Data**, **Software 
 ---
 
 ## 🌱 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-christou-4068a9198) *(add your link if you want!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-christou-4068a9198)
 - 💬 Feel free to reach out to chat about tech, projects, or just say hi!
 
