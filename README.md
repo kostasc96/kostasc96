@@ -13,7 +13,7 @@ My interests (professionally and academically) include **Big Data**, **Software 
 
 ## 🧩 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kostasc96&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kostasc96&layout=compact&langs_count=20)
 
 ---
 
