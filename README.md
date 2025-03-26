@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Konstantinos Christou!
 
 ## 💻 About Me
-My interests (professionally and academically) include **Big Data**, **Software Development**, **Artificial Intelligence**, **Data Science**, **Distributed Systems** and **DevOps**. I am interested in learning new coding languages & frameworks and solving algorithm challenges. Each new challenge improves my coding knowledge and makes me more excited about being a software engineer.
+My interests (professionally and academically) include **Big Data**, **Software Development**, **Artificial Intelligence**, **Distributed Systems** and **DevOps**. I am interested in learning new coding languages & frameworks and solving algorithm challenges. Each new challenge improves my coding knowledge and makes me more excited about being a software engineer.
 
 ---
 
