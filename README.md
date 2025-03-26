@@ -7,7 +7,7 @@ My interests (professionally and academically) include **Big Data**, **Software 
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kostasc96&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kostasc96&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
