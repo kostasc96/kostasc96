@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Konstantinos Christou!
 
-<!--
-**kostasc96/kostasc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+My interests (professionally and academically) include **Big Data**, **Software Development**, **Artificial Intelligence**, **Data Science**, **Distributed Systems** and **DevOps**. I am interested in learning new coding languages & frameworks and solving algorithm challenges. Each new challenge improves my coding knowledge and makes me more excited about being a software engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kostasc96&show_icons=true&theme=default)
+
+---
+
+## 🧩 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kostasc96&layout=compact)
+
+---
+
+## 🌱 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/konstantinos-christou-4068a9198) *(add your link if you want!)*
+- 💬 Feel free to reach out to chat about tech, projects, or just say hi!
+
